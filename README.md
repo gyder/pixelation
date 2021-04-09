@@ -22,3 +22,7 @@
 ## Among Us
 
 ![](asset/Among-us.gif)
+
+## Unallocated
+
+![](asset/Ghost.gif)
