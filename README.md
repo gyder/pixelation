@@ -6,7 +6,7 @@
 
 ## Didget
 
-.
+![](asset/didget.gif)
 
 ## Spaceship
 
