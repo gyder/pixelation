@@ -1,2 +1,3 @@
 # Pixelation
-Animated gifs
+
+![123]("asset/Didget's adventure.gif")
