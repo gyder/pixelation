@@ -1,2 +1,2 @@
-# pixelation
+# Pixelation
 Animated gifs
