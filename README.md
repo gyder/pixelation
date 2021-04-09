@@ -1,0 +1,2 @@
+# pixelation
+Animated gifs
