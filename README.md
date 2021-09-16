@@ -7,7 +7,7 @@
 
 ## Swords and Shields (and more)
 
-![](asset/
+![](asset/Eisschwert)
 
 ## Didget
 
