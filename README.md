@@ -4,6 +4,11 @@
 
 ![](asset/Bach-logo.gif)
 
+
+##Swords and Shields (and more)
+
+![](asset/Eisschwert.gif)
+
 ## Didget
 
 ![](asset/didget.gif)
