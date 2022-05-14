@@ -7,7 +7,9 @@
 
 ## Swords and Shields (and more)
 
-![](asset/Eisschwert.gif)
+![](asset/Eisschwert)
+![](asset/Wooden Shield)
+![](asset/Wooden Shield with block)
 
 ## Didget
 
